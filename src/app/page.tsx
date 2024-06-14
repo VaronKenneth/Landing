@@ -51,7 +51,7 @@ export default function Home() {
               <div className="absolute w-[35px] h-[35px] bg-[#999999] rounded-full left-[76%] top-[45%]">
                 
               </div>
-              <div className="absolute top-1/3 h-[240px] w-[70%] bg-[#666666]  rounded-lg">
+              <div className="absolute top-1/3 h-[240px] w-[70%] bg-[#0B4056]  rounded-lg">
                 
               </div>
               <div className="relative h-[250px] w-[70%] bg-[#E6E6E6] ml-8 mt-4 rounded-lg">
@@ -74,7 +74,7 @@ export default function Home() {
       <section>
         <div className="w-full h-[500px] bg-[#CCCCCC] overflow-hidden max-[1279px]:h-auto max-[1279px]:pb-7">
           <div className="grid grid-cols-3 max-[1279px]:grid-cols-2 max-[850px]:grid-cols-1 gap-8 place-items-center pt-7">
-            <div className="w-[80%] h-[450px] bg-[#333333] rounded-2xl">
+            <div className="w-[80%] h-[450px] bg-[#0B4056] rounded-2xl">
               <div className="relative w-full pt-5">
                 <div className="relative w-[110px] h-[110px] mx-auto bg-[#D4D4D4] rounded-full">
 
@@ -92,7 +92,7 @@ export default function Home() {
                   </div>
               </div>
             </div>
-            <div className="w-[80%] h-[450px] bg-[#333333] rounded-2xl">
+            <div className="w-[80%] h-[450px] bg-[#0B4056] rounded-2xl">
               <div className="relative w-full pt-5">
                 <div className="relative w-[110px] h-[110px] mx-auto bg-[#D4D4D4] rounded-full">
 
@@ -110,7 +110,7 @@ export default function Home() {
                   </div>
               </div>
             </div>
-            <div className="w-[80%] h-[450px] bg-[#333333] rounded-2xl max-[1279px]:col-span-1">
+            <div className="w-[80%] h-[450px] bg-[#0B4056] rounded-2xl max-[1279px]:col-span-1">
               <div className="relative w-full pt-5">
                 <div className="relative w-[110px] h-[110px] mx-auto bg-[#D4D4D4] rounded-full">
 
@@ -150,7 +150,7 @@ export default function Home() {
               <div className="absolute w-[35px] h-[35px] bg-[#999999] rounded-full right-[76%] top-[45%]">
                   
               </div>
-              <div className="absolute top-1/3 right-0 h-[240px] w-[70%] bg-[#666666] rounded-lg">
+              <div className="absolute top-1/3 right-0 h-[240px] w-[70%] bg-[#0B4056] rounded-lg">
                 
               </div>
               <div className="relative h-[250px] w-[70%] bg-[#E6E6E6] ml-auto mr-8 rounded-lg">
@@ -161,7 +161,7 @@ export default function Home() {
       </section>
       <section>
         <div className="w-full flex justify-between h-[300px] bg-[#CCCCCC] px-5 2xl:px-28 max-[600px]:flex-col max-[600px]:h-auto">
-            <div className="items-center justify-center w-[33%] py-8 max-[975px]:w-[45%] max-[600px]:w-[90%]">
+            <div className="items-center justify-center w-[33%] py-8 max-[975px]:w-[45%] max-[600px]:w-[90%] pl-4">
               <p className="w-full break-words">
                 asassssaasasasassssssssssssssssssssssssaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaasassssaasasasasssssssssssssssssasassssaasasasassssssssssssssssssssssssaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaasassssaasasasasssssssssssssssssasassssaasasasassssssssssssssssssssssssaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaasassssaasasasasssssssssssssssss
               </p>
@@ -175,7 +175,7 @@ export default function Home() {
               className="w-[300px] h-[300px]"
             />
           </div>
-          <div className=" items-center justify-center w-[33%] py-8 max-[975px]:w-[45%] max-[600px]:w-[90%]">
+          <div className=" items-center justify-center w-[33%] py-8 max-[975px]:w-[45%] max-[600px]:w-[90%] max-[600px]:pl-4">
               <div>
                 <p className="w-full break-words">
                 asassssaasasasassssssssssssssssssssssssaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaasassssaasasasasssssssssssssssssasassssaasasasassssssssssssssssssssssssaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaasassssaasasasasssssssssssssssssasassssaasasasassssssssssssssssssssssssaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaasassssaasasasasssssssssssssssss
@@ -184,7 +184,7 @@ export default function Home() {
           </div>
         </div>
       </section>
-      <footer className="w-full h-[20px] bg-[#333333] border-t-[1px] border-black">
+      <footer className="w-full h-[20px] bg-[#0B4056] border-t-[1px] border-black">
 
       </footer>
     </>
