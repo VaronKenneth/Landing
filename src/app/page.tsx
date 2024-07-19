@@ -40,7 +40,7 @@ export default function Home() {
         </div>
       </section>
       <section>
-        <div className="w-full h-[400px] max-[850px]:h-auto max-[850px]:pb-16 bg-[#CCCCCC] flex justify-between pb-24 max-[850px]:flex-col">
+        <div className="w-full h-[400px] max-[850px]:h-auto max-[850px]:pb-15 bg-[#CCCCCC] flex justify-between pb-24 max-[850px]:flex-col">
           <div className="relative pt-16 ml-24 w-[50%] max-[850px]:w-[80%] max-[550px]:ml-12">
               <div className="absolute w-[100px] h-[100px] bg-[#444444] rounded-full left-[68%] top-[78%]">
                 
