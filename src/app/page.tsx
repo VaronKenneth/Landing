@@ -185,7 +185,7 @@ export default function Home() {
         </div>
       </section>
       <footer className="w-full h-[20px] bg-[#0B4056] border-t-[1px] border-black">
-
+        <h1 className="w-full h-[64px] bg-[#0B4056]">hola mundo</h1>
       </footer>
     </>
   );
